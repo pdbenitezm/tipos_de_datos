@@ -1,5 +1,4 @@
-# Escribir un programa que muestre por pantalla
-# el resultado de la siguiente operación aritmética
+# Escribir un programa que muestre por pantalla el resultado de la siguiente operación aritmética
 # (3+2 / 2.5) ^ 2
 
 print("Ejercicio 2: (3+2 / 2.5) ^ 2")

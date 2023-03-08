@@ -8,3 +8,4 @@ N = int(input())
 suma = N * (N + 1) / 2
 print("La suma de todos los enteros desde 1 hasta el", N, "son:")
 print(suma)
+quit(print("Fin del código"))
